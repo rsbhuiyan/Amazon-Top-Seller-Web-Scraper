@@ -11,3 +11,4 @@ Download exe file and save it in a location you will remember. Once you run the 
 Download the amazon_scrape.exe file. It may ask "are you sure you want to download" just select run anyways
 
 # PROJECT LICENSE
+[https://github.com/rsbhuiyan/Amazon-Top-Seller-Web-Scraper/blob/main/LICENSE]
